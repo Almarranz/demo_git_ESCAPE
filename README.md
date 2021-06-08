@@ -1,11 +1,15 @@
 
 #1 Scholl 2021
 
+
+
 Usage:
-```python
+````python
+
 from fibonacci import fibonacci
 
-print(fibonacci(20))
-print('Hello World')
+for n in range(20):
+	
+	print(fibonacci(n))
 ```
 
